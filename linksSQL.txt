@@ -3,4 +3,4 @@ Sites web pour apprendre le SQL :
 - Toute la partie SQL du site de Pierre Giraud : 
 https://discord.com/channels/1025201004649656340/1032250213550804992/1032250231024263188
 
--
+-   
