@@ -1,0 +1,8 @@
+Vidéos pour api :
+
+- utilisation avec fetch : https://www.youtube.com/watch?v=fm1xxyBkerc&t=1148s
+- utilisation en back avec curl : https://www.youtube.com/watch?v=vq7yJDuf42E&t=2032s
+- utilisation avec intergromat(logiciel) : https://www.youtube.com/watch?v=jq6KVKmV2VU
+
+- création d'une api : https://www.youtube.com/watch?v=OxQRnuD0JXk&t=1828s
+
